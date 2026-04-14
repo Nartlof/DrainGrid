@@ -2,10 +2,12 @@
  * Project Name : Grelha para ralo
  *
  * Author: Carlos Eduardo Foltran
- * GitHub: [GitHub Repository URL]
- * Thingiverse: [Thingiverse Project URL]
+ * GitHub: https://github.com/Nartlof/DrainGrid
+ * Thingiverse: https://www.thingiverse.com/thing:7334860
  * License: Creative Commons CC0 1.0 Universal (CC0 1.0)
- * Description: [Brief description of your Project]
+ * Description: This is a costumasable drain grid designed for 3D printing. 
+                It features a central hub, an outer ring, and multiple spokes connecting the two. 
+                The dimensions can be easily adjusted by modifying the parameters at the top of the code.
  *
  * Date Created: 20260412
  * Last Updated: 20260412
