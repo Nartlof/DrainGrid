@@ -17,15 +17,22 @@
  *
  * For more details about the CC0 license, visit: https://creativecommons.org/publicdomain/zero/1.0/
  */
-
-DiametroExterno = 96.5; // Diâmetro externo da grelha
-DiametroInterno = 92; // Diâmetro interno da grelha
-DiametroCentral = 40; // Diâmetro do hub central
-Altura = 8; // Altura da grelha
-EspessuraDaBorda = 3.5; // Espessura da borda da grelha
-EspessuraDoAnel = 3.5; // Espessura do anel da grelha
-EspessuraDoRaio = 2; // Espessura do raio da grelha
-NumeroDeRaios = 32; // Número de raios da grelha
+// Diâmetro externo da grelha
+DiametroExterno = 96; // 0.5
+// Diâmetro interno da grelha
+DiametroInterno = 90; // 0.5
+// Diâmetro do hub central
+DiametroCentral = 40; // 0.5
+// Altura da grelha
+Altura = 8; // 0.5
+// Espessura da borda da grelha
+EspessuraDaBorda = 3.5; // 0.5
+// Espessura do anel da grelha
+EspessuraDoAnel = 3.5; // 0.5
+// Espessura do raio da grelha
+EspessuraDoRaio = 2; // 0.5
+// Número de raios da grelha
+NumeroDeRaios = 32; // 0.5
 
 LarguraDaBorda = (DiametroExterno - DiametroInterno) / 2 + EspessuraDoAnel; // Largura da borda da grelha
 ComprimentoDoRaio = (DiametroInterno - DiametroCentral) / 2; // Comprimento do raio da grelha
